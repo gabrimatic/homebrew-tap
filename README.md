@@ -11,9 +11,9 @@ brew tap gabrimatic/tap
 Then install any available formula:
 
 ```bash
-brew install gabrimatic/tap/<formula>
+brew install eyra
 ```
 
 ## Available Formulae
 
-_No formulae published yet._
+- `eyra` - local-first voice coordinator for macOS terminals.
