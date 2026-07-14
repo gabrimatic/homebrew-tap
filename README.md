@@ -2,18 +2,11 @@
 
 Homebrew formulae for [gabrimatic](https://github.com/gabrimatic) projects.
 
-## Usage
+No formulae are published in this tap yet. On-device voice transcription is
+available from its own tap:
 
 ```bash
-brew tap gabrimatic/tap
+brew install gabrimatic/local-whisper/local-whisper
 ```
 
-Then install any available formula:
-
-```bash
-brew install eyra
-```
-
-## Available Formulae
-
-- `eyra` - local-first voice coordinator for macOS terminals.
+More formulae will be added here as projects ship.
